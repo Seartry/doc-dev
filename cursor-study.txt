@@ -1,0 +1,39 @@
+cursor 学习实战
+1.创建/打开一个项目
+2.根据项目语言类型选择相应的规则cursorrules
+  2.1 使用“花生: 中文 Cursor Rules”插件生成
+  2.2 使用规则网址选择规则
+      https://learn-cursor.com/rules/
+      https://dev.to/dpaluy/mastering-cursor-rules-a-developers-guide-to-smart-ai-integration-1k65
+      https://www.ifb.me/zh/blog/ai/shen-ru-liao-jie-win
+3.需求文档整理
+    3.1 新项目需要创建readme.md文件，并根据项目需求整理需求文档
+    3.2 老项目可以把需求文档整理并放在readme.md文件中
+4.cursor核心功能
+    4.1 代码补全
+    4.2 代码解释
+    4.3 代码重构
+    4.4 AI代码生成
+    4.5 AI对话能力Chat
+    4.6 代码编辑器composer normal/agent
+5.其他AI编辑器工具
+5.1. trae https://www.trae.ai/
+目前只支持mac，windows版本开发中。
+支持Claude 3.5 Sonnet 和 GPT-4o 等先进模型。
+国内可以直接使用。
+5.2. windsurf https://codeium.com/windsurf
+它的专业版只需要10美金/月，比cursor便宜。主打的是agent能力，目前在tab功能的完善做的也不错了。
+5.3. vscode + roo cdoe + deepseek + continue
+可以配置多个ai平台的key，按照使用量付费。
+5.4 idea通义灵码插件 2.0(也支持对话式儿生成代码)
+
+实战三项
+1. 重构了checkins-v2-task项目
+2. 写了一个Chrome的插件（json格式化）
+3. 写了一本小说
+
+
+
+
+
+
